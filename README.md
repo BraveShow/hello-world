@@ -6,3 +6,5 @@ A taky mam rad pizzu.
 
 A tohle je taky neco zajimavyho. 
 Žluťoučký kůň úpěl ďábelské ódy.
+
+Tak to by mě zajímalo, ve kterým branchi se tohle objeví. 
